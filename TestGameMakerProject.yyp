@@ -35,6 +35,10 @@
   },
   "resources": [
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
+    {"id":{"name":"spr_Enemy","path":"sprites/spr_Enemy/spr_Enemy.yy",},},
+    {"id":{"name":"obj_TestAttackHitbox","path":"objects/obj_TestAttackHitbox/obj_TestAttackHitbox.yy",},},
+    {"id":{"name":"obj_Enemy","path":"objects/obj_Enemy/obj_Enemy.yy",},},
+    {"id":{"name":"spr_TestAttack","path":"sprites/spr_TestAttack/spr_TestAttack.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
