@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_Player",
-    "path": "sprites/spr_Player/spr_Player.yy",
+    "name": "spr_YoumuDown",
+    "path": "sprites/spr_YoumuDown/spr_YoumuDown.yy",
   },
   "spriteMaskId": null,
   "visible": true,

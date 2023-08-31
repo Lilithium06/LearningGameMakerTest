@@ -17,9 +17,15 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_YoumuLeft","order":6,"path":"sprites/spr_YoumuLeft/spr_YoumuLeft.yy",},
     {"name":"spr_Enemy","order":2,"path":"sprites/spr_Enemy/spr_Enemy.yy",},
     {"name":"obj_TestAttackHitbox","order":1,"path":"objects/obj_TestAttackHitbox/obj_TestAttackHitbox.yy",},
+    {"name":"spr_YoumuRight","order":7,"path":"sprites/spr_YoumuRight/spr_YoumuRight.yy",},
+    {"name":"spr_YoumuIdle","order":8,"path":"sprites/spr_YoumuIdle/spr_YoumuIdle.yy",},
+    {"name":"spr_YoumuUp","order":5,"path":"sprites/spr_YoumuUp/spr_YoumuUp.yy",},
+    {"name":"STOLEN_ASSESTS","order":3,"path":"sprites/STOLEN_ASSESTS/STOLEN_ASSESTS.yy",},
     {"name":"obj_Enemy","order":2,"path":"objects/obj_Enemy/obj_Enemy.yy",},
+    {"name":"spr_YoumuDown","order":4,"path":"sprites/spr_YoumuDown/spr_YoumuDown.yy",},
     {"name":"spr_TestAttack","order":1,"path":"sprites/spr_TestAttack/spr_TestAttack.yy",},
   ],
 }
