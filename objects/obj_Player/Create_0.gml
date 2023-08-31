@@ -23,14 +23,14 @@ if (keyboard_check(ord("W"))) {
     moveY -= 1;
 }
 
+changeAnimation(moveX, moveY);
+
 // Normalize the movement vector to keep diagonal movement at the same speed
 var moveLength = point_distance(0, 0, moveX, moveY);
 if (moveLength != 0) {
     moveX /= moveLength;
     moveY /= moveLength;
 }
-
-changeAnimation(moveX, moveY);
 
 // Move the object
 x += moveX * moveSpeed;
@@ -56,8 +56,20 @@ changeAnimation = function(moveX, moveY) {
 	else if (moveY == 1 && moveX == 0) {
 		sprite_index = spr_YoumuDown;
 	}
+	else if (moveY == 1 && moveX == 1) {
+		sprite_index = spr_YoumuDownRight;
+	}
+	else if (moveY == 1 && moveX == -1) {
+		sprite_index = spr_YoumuDownLeft;
+	}
 	else if (moveY == -1 && moveX == 0) {
 		sprite_index = spr_YoumuUp;
+	}
+	else if (moveX == -1 && moveY == -1) {
+		sprite_index = spr_YoumuUpLeft;	
+	}
+	else if (moveX == 1 && moveY == -1) {
+		sprite_index = spr_YoumuUpRight;	
 	}
 	else {
 		sprite_index = spr_YoumuIdle;	

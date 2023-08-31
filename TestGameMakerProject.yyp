@@ -34,6 +34,7 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"spr_YoumuUpRight","path":"sprites/spr_YoumuUpRight/spr_YoumuUpRight.yy",},},
     {"id":{"name":"spr_YoumuLeft","path":"sprites/spr_YoumuLeft/spr_YoumuLeft.yy",},},
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"spr_Enemy","path":"sprites/spr_Enemy/spr_Enemy.yy",},},
@@ -42,10 +43,13 @@
     {"id":{"name":"spr_YoumuIdle","path":"sprites/spr_YoumuIdle/spr_YoumuIdle.yy",},},
     {"id":{"name":"spr_YoumuUp","path":"sprites/spr_YoumuUp/spr_YoumuUp.yy",},},
     {"id":{"name":"STOLEN_ASSESTS","path":"sprites/STOLEN_ASSESTS/STOLEN_ASSESTS.yy",},},
+    {"id":{"name":"spr_YoumuDownLeft","path":"sprites/spr_YoumuDownLeft/spr_YoumuDownLeft.yy",},},
+    {"id":{"name":"spr_YoumuDownRight","path":"sprites/spr_YoumuDownRight/spr_YoumuDownRight.yy",},},
     {"id":{"name":"obj_Enemy","path":"objects/obj_Enemy/obj_Enemy.yy",},},
     {"id":{"name":"spr_YoumuDown","path":"sprites/spr_YoumuDown/spr_YoumuDown.yy",},},
     {"id":{"name":"spr_TestAttack","path":"sprites/spr_TestAttack/spr_TestAttack.yy",},},
     {"id":{"name":"spr_Player","path":"sprites/spr_Player/spr_Player.yy",},},
+    {"id":{"name":"spr_YoumuUpLeft","path":"sprites/spr_YoumuUpLeft/spr_YoumuUpLeft.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
