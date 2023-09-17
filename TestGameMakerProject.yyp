@@ -24,15 +24,15 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"YoumuSprites","folderPath":"folders/Sprites/YoumuSprites.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"YoumuSprites","folderPath":"folders/Sprites/YoumuSprites.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"spr_YoumuUpRight","path":"sprites/spr_YoumuUpRight/spr_YoumuUpRight.yy",},},
@@ -40,6 +40,7 @@
     {"id":{"name":"obj_Player","path":"objects/obj_Player/obj_Player.yy",},},
     {"id":{"name":"spr_Enemy","path":"sprites/spr_Enemy/spr_Enemy.yy",},},
     {"id":{"name":"obj_TestAttackHitbox","path":"objects/obj_TestAttackHitbox/obj_TestAttackHitbox.yy",},},
+    {"id":{"name":"obj_GameManager","path":"objects/obj_GameManager/obj_GameManager.yy",},},
     {"id":{"name":"spr_YoumuRight","path":"sprites/spr_YoumuRight/spr_YoumuRight.yy",},},
     {"id":{"name":"spr_YoumuIdle","path":"sprites/spr_YoumuIdle/spr_YoumuIdle.yy",},},
     {"id":{"name":"spr_YoumuUp","path":"sprites/spr_YoumuUp/spr_YoumuUp.yy",},},
@@ -56,6 +57,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

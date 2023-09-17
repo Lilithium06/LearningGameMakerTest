@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-moveSpeed = 1;
+moveSpeed = 1.5;
 
 //Free State
 stateFree =	function()
